@@ -47,6 +47,7 @@
     "src/**/*.jsx",
     ".next/types/**/*.ts",
     "dist/llmui/.next/types/**/*.ts",
-    "next-env.d.ts"
+    "next-env.d.ts",
+    "electron/main.ts"
   ]
 }
